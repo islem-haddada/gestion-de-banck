@@ -1,4 +1,4 @@
-package com.mycompany.tps;
+
 
 import java.rmi.server.UnicastRemoteObject;
 import java.rmi.RemoteException;

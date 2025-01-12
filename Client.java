@@ -1,4 +1,4 @@
-package com.mycompany.tps;
+
 
 import javax.swing.*;
 import java.awt.*;
