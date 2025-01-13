@@ -8,7 +8,7 @@ public class ATMServer extends UnicastRemoteObject implements ATM {
 
     protected ATMServer() throws RemoteException {
         super();
-        balance = 1000.0; // Initial balance
+        balance = 0.0; // Initial balance
     }
 
     @Override
